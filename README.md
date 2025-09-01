@@ -2,7 +2,7 @@ asKAN and corresponding varients by replacing the polynomials.
 
 The Original-B-spline refers to the asKAN in our work.
 
-asXXXKAN with one level corresponds to the respective XXXKAN.
+asXXXKAN with one iteration is XXXKAN.
 
 Based heavily on:
 
