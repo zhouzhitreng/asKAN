@@ -10,7 +10,7 @@ Based heavily on:
 
 The Original-B-spline refers to the asKAN in our work.
 
-asXXX with one level corresponds to the respective XXX.
+asXXXKAN with one level corresponds to the respective XXXKAN.
 
 
 
