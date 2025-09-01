@@ -1,10 +1,12 @@
 asKAN and corresponding varients by replacing the polynomials.
 
-Based heavily on KAN by KindXiaoming：https://github.com/KindXiaoming/pykan; 
+Based heavily on:
 
-ChebyKAN by SynodicMonth：https://github.com/SynodicMonth/ChebyKAN; 
+  KAN by KindXiaoming：https://github.com/KindXiaoming/pykan; 
 
-OrthogPolyKANs by Boris-73-TA: https://github.com/Boris-73-TA/OrthogPolyKANs
+  ChebyKAN by SynodicMonth：https://github.com/SynodicMonth/ChebyKAN; 
+
+  OrthogPolyKANs by Boris-73-TA: https://github.com/Boris-73-TA/OrthogPolyKANs
 
 The Original-B-spline refers to the asKAN in our work.
 
